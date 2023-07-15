@@ -7,5 +7,12 @@ def b():
     print('abc')
     return 'abc'
 
+
+def c():
+    print('123c')
+    return '123c'
+
+
 a()
 b()
+c()
