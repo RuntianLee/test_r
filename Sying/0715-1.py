@@ -9,8 +9,8 @@ def b():
 
 
 def c():
-    print('ccc')
-    return 'ccc'
+    print('123c')
+    return '123c'
 
 
 a()
